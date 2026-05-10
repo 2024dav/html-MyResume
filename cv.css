@@ -1,0 +1,89 @@
+
+
+
+
+
+/* Body & overall */
+body {
+    background-color: #FAD6A5;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+    color: #270163da;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.title {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 3rem;
+    color: #243b7a;
+}
+
+.subtitle {
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: 800;
+    color: #567189;
+}
+
+/* Profile Picture */
+.profile-pic {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Sections */
+section {
+    margin: 20px 150px;
+}
+
+/* Headings */
+h2 {
+    font-family: 'Varela Round', sans-serif;
+    color: #88710d;
+}
+
+h3 {
+    font-family: 'Varela Round', sans-serif;
+    color: #1b880d;
+}
+
+/* Duties & job lists */
+ul {
+    margin-left: 20px;
+}
+
+.job ul {
+    list-style-type: disc;
+}
+
+.job p {
+        font-family: 'Patrick Hand', cursive;
+    font-size: 1rem;
+    color: #b34141;
+
+}
+
+/* Referees */
+.referee h3 {
+    font-style: oblique;
+    color: #b34141;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin: 40px 0;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
